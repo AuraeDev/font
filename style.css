@@ -3,5 +3,6 @@
   font-style: normal;
   font-weight: 400;
   src: local('Arciform Sans'), local('Arciform'), url(https://github.com/AuraeDev/font/blob/master/Arciform.woff2?raw=true) format('woff2');
+  src: local('Arciform Sans'), local('Arciform'), url(https://github.com/AuraeDev/font/blob/master/webfontkit-20161205-175736/arciform-webfont.woff?raw=true) format('woff');
   unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
 
