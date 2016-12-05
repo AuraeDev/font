@@ -2,10 +2,10 @@
   font-family: 'Arciform Sans';
   font-style: normal;
   font-weight: 400;
-  src: local('Arciform Sans'), local('Arciform'), url('https://github.com/AuraeDev/font/blob/master/Arciform.woff2?raw=true') format('woff2'),
-	   local('Arciform Sans'), local('Arciform'), url('https://github.com/AuraeDev/font/blob/master/webfontkit-20161205-175736/arciform-webfont.woff?raw=true') format('woff'),
-       local('Arciform Sans'), local('Arciform'), url('https://github.com/AuraeDev/font/blob/master/arciform-webfont.ttf?raw=true') format('truetype'),
-       local('Arciform Sans'), local('Arciform'), url('https://github.com/AuraeDev/font/blob/master/arciform-webfont.eot?raw=true') format('embedded-opentype');
+  src: local('Arciform Sans'), local('Arciform'), url('https://github.com/AuraeDev/font/blob/master/Arciform.woff2?raw=true') format('woff2');
+  src: local('Arciform Sans'), local('Arciform'), url('https://github.com/AuraeDev/font/blob/master/webfontkit-20161205-175736/arciform-webfont.woff?raw=true') format('woff');
+  src: local('Arciform Sans'), local('Arciform'), url('https://github.com/AuraeDev/font/blob/master/arciform-webfont.ttf?raw=true') format('truetype');
+  src: local('Arciform Sans'), local('Arciform'), url('https://github.com/AuraeDev/font/blob/master/arciform-webfont.eot?raw=true') format('embedded-opentype');
  /* src: local('Arciform Sans'), local('Arciform'), url(https://github.com/AuraeDev/font/blob/master/Arciform.woff2?raw=true) format('woff2');
   *src: local('Arciform Sans'), local('Arciform'), url(https://github.com/AuraeDev/font/blob/master/webfontkit-20161205-175736/arciform-webfont.woff?raw=true) format('woff'); 
   */
